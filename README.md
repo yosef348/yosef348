@@ -1,7 +1,4 @@
-<img width="6262" height="500" alt="githubhome" src="https://github.com/user-attachments/assets/c4418817-77b9-4085-8a8f-cb05a0ba2925" />
-
-
-
+<img width="1778" height="592" alt="Cover_pic" src="https://github.com/user-attachments/assets/e488afde-0f5a-4251-a9fc-b470016b5dd6" />
 
 
 Let's Connect: 
